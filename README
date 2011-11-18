@@ -1,0 +1,15 @@
+This program was initially meant just to be a test vehicle for the 02Brick
+computer, but is slowly turned into a development tool for custom formating
+and creating disk images.
+
+Tools:
+The project file must be used with Crimson Editor.
+All files need to be assembled with DASM.
+
+You need only to assemble the floppy.asm file, all other files are included
+by this top file.
+
+GIT usage
+Before pushing the tree, open the floppy.prj file in an editor and remove all
+absolute paths in the file descriptors. Otherwise all other users will get your
+path in their clone.

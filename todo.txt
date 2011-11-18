@@ -1,0 +1,14 @@
+Todo List:
+
+2011-04-06:
+  Today I have been playing a bit with the read sector function, which basically
+  seem to be doing what I expect. There is a CRC error generated at the
+  beginning of the record, but data can then be read and DRQ's are generated.
+  
+  To continue debugging I suggest that the next step is to implement a read
+  track function so that the raw data can be examined.
+  
+  The CRC could possibly be a result of the precompensation not being used
+  currently. I'll have to look into that.
+  
+  

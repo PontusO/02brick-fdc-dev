@@ -1,0 +1,14 @@
+<project version="Crimson Editor 3.60">
+	<localfile path="atoi.asm" />
+	<localfile path="fdc.asm" />
+	<localfile path="floppy.asm" />
+	<localfile path="math.asm" />
+	<localfile path="README" />
+	<localfile path="todo.txt" />
+	<localfile path="via.asm" />
+	<localfile path="xmodemrcv.asm" />
+</project>
+
+<workspace version="Crimson Editor 3.60">
+</workspace>
+
